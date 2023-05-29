@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "masiks_puzzle_dungeon:start",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 774356299,
+    "spacing": 40,
+    "separation": 16
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "masiks_puzzle_dungeon:overgrown_connector",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+      "weight": 50,
+      "element": {
+        "location": "masiks_puzzle_dungeon:hallway_to_o",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

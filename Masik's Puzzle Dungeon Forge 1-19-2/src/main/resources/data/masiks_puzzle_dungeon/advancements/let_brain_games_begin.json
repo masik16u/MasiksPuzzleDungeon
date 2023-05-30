@@ -3,8 +3,8 @@
     "icon": {
       "item": "minecraft:infested_mossy_stone_bricks"
     },
-    "title": "Let Brain Games Begin",
-    "description": "Find a mysterious puzzle dungeon",
+    "title": {"translate":"Let Brain Games Begin"},
+    "description": {"translate":"Find a mysterious puzzle dungeon"},
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

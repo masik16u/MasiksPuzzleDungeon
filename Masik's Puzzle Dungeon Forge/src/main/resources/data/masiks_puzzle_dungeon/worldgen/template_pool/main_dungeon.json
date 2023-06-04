@@ -327,6 +327,15 @@
       }
     },
 	{
+      "weight": 4,
+      "element": {
+        "location": "masiks_puzzle_dungeon:mine_room_emp",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
       "weight": 1,
       "element": {
         "location": "masiks_puzzle_dungeon:stone",
@@ -339,6 +348,15 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:i_hallway",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 24,
+      "element": {
+        "location": "masiks_puzzle_dungeon:slow_hallway",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -446,6 +464,15 @@
 	{
       "weight": 4,
       "element": {
+        "location": "masiks_puzzle_dungeon:soul_carpet_hallway",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 4,
+      "element": {
         "location": "masiks_puzzle_dungeon:carpet_hallway",
         "processors": "minecraft:empty",
 		"projection": "rigid",
@@ -498,6 +525,15 @@
       }
     },
 	{
+      "weight": 6,
+      "element": {
+        "location": "masiks_puzzle_dungeon:stairs_emp",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
       "weight": 10,
       "element": {
         "location": "masiks_puzzle_dungeon:circular_stairs",
@@ -510,6 +546,15 @@
       "weight": 8,
       "element": {
         "location": "masiks_puzzle_dungeon:axolotl_hallway",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 8,
+      "element": {
+        "location": "masiks_puzzle_dungeon:axolotl_hallway_emp",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "masiks_puzzle_dungeon",
-  "version": "1.0.5-1.19.X",
+  "version": "1.0.7-1.19.X",
 
   "name": "Masik's Puzzle Dungeon",
   "description": "Adds a dungeon with a lot of redstone puzzles",
@@ -9,10 +9,10 @@
     "Masik16u"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/members/masik16u_u/projects"
+    "homepage": "https://github.com/masik16u/MasiksPuzzleDungeon/wiki"
   },
 
-  "license": "MIT License",
+  "license": "GNU General Public License v3.0",
   "icon": "assets/masiks_puzzle_dungeon/icon.png",
 
   "environment": "*",
@@ -25,7 +25,6 @@
     ]
   },
   "mixins": [
-    "masiks_puzzle_dungeon.mixins.json"
   ],
 
   "depends": {

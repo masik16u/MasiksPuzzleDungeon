@@ -10,6 +10,6 @@ public class MasiksPuzzleDungeon implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		//ModItems.registerModItems();
+
 	}
 }

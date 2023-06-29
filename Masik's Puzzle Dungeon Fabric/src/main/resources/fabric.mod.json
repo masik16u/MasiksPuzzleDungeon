@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "masiks_puzzle_dungeon",
-  "version": "1.0.7-1.19.X",
+  "version": "1.1.0-1.20.X",
 
   "name": "Masik's Puzzle Dungeon",
   "description": "Adds a dungeon with a lot of redstone puzzles",
@@ -19,9 +19,6 @@
   "entrypoints": {
     "main": [
       "net.masik.puzzledungeon.MasiksPuzzleDungeon"
-    ],
-    "client": [
-      "net.masik.puzzledungeon.MasiksPuzzleDungeonClient"
     ]
   },
   "mixins": [
@@ -30,10 +27,7 @@
   "depends": {
     "fabricloader": ">=0.14.17",
     "fabric-api": "*",
-    "minecraft": "*",
+    "minecraft": ">=1.20",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }

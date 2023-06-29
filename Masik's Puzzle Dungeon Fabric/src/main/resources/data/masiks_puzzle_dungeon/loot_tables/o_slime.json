@@ -191,21 +191,6 @@
         {
           "type": "minecraft:item",
           "weight": 60,
-          "name": "minecraft:tropical_fish",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 3,
-                "max": 7
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 60,
           "name": "minecraft:rotten_flesh",
           "functions": [
             {
@@ -399,22 +384,7 @@
         {
           "type": "minecraft:item",
           "weight": 25,
-          "name": "minecraft:compass"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 25,
           "name": "minecraft:clock"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 25,
-          "name": "minecraft:spyglass"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 50,
-          "name": "minecraft:pufferfish_bucket"
         },
         {
           "type": "minecraft:item",
@@ -866,7 +836,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 50,
+          "weight": 100,
           "name": "minecraft:slime_ball",
           "functions": [
             {

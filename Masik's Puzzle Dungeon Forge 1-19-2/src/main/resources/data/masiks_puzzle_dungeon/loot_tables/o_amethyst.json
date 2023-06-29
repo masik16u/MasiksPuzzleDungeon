@@ -3,8 +3,8 @@
     {
       "rolls": {
         "type": "minecraft:uniform",
-        "min": 3,
-        "max": 6
+        "min": 4,
+        "max": 8
       },
       "bonus_rolls": 0,
       "entries": [
@@ -55,7 +55,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 50,
+          "weight": 100,
           "name": "minecraft:amethyst_shard",
           "functions": [
             {
@@ -309,17 +309,7 @@
         {
           "type": "minecraft:item",
           "weight": 18,
-          "name": "minecraft:compass"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 18,
           "name": "minecraft:clock"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 30,
-          "name": "minecraft:spyglass"
         },
         {
           "type": "minecraft:item",

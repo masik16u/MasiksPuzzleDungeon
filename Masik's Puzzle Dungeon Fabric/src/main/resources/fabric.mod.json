@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "masiks_puzzle_dungeon",
-  "version": "1.1.0-1.20.X",
+  "version": "1.1.1-1.20.X",
 
   "name": "Masik's Puzzle Dungeon",
   "description": "Adds a dungeon with a lot of redstone puzzles",

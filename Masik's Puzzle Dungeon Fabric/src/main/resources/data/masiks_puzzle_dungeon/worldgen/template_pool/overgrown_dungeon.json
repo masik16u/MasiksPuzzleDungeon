@@ -6,7 +6,7 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:o_amethyst_room_1",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -15,7 +15,7 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:o_amethyst_room_2",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -24,7 +24,7 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:o_amethyst_room_3",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -33,7 +33,7 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:o_amethyst_room_4",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -42,7 +42,7 @@
       "weight": 5,
       "element": {
         "location": "masiks_puzzle_dungeon:o_slime_room",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -51,7 +51,7 @@
       "weight": 5,
       "element": {
         "location": "masiks_puzzle_dungeon:o_bee_room",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -60,7 +60,7 @@
       "weight": 5,
       "element": {
         "location": "masiks_puzzle_dungeon:o_spider_spawner_room",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -69,7 +69,7 @@
       "weight": 7,
       "element": {
         "location": "masiks_puzzle_dungeon:o_tree_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -78,7 +78,7 @@
       "weight": 8,
       "element": {
         "location": "masiks_puzzle_dungeon:o_maze_1",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -87,7 +87,7 @@
       "weight": 8,
       "element": {
         "location": "masiks_puzzle_dungeon:o_maze_2",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -96,7 +96,7 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:o_flower_room_1",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -105,7 +105,7 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:o_flower_room_2",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -114,7 +114,7 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:o_flower_room_3",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -123,7 +123,7 @@
       "weight": 4,
       "element": {
         "location": "masiks_puzzle_dungeon:o_flower_room_4",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -132,7 +132,7 @@
       "weight": 7,
       "element": {
         "location": "masiks_puzzle_dungeon:o_i_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -141,7 +141,7 @@
       "weight": 7,
       "element": {
         "location": "masiks_puzzle_dungeon:o_bamboo_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -150,7 +150,7 @@
       "weight": 7,
       "element": {
         "location": "masiks_puzzle_dungeon:o_leaves_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -159,7 +159,7 @@
       "weight": 7,
       "element": {
         "location": "masiks_puzzle_dungeon:o_lava_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -168,7 +168,7 @@
       "weight": 7,
       "element": {
         "location": "masiks_puzzle_dungeon:o_pufferfish_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -177,7 +177,7 @@
       "weight": 24,
       "element": {
         "location": "masiks_puzzle_dungeon:o_l_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -186,7 +186,7 @@
       "weight": 14,
       "element": {
         "location": "masiks_puzzle_dungeon:o_t_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -195,7 +195,7 @@
       "weight": 6,
       "element": {
         "location": "masiks_puzzle_dungeon:o_secret_t_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -204,7 +204,7 @@
       "weight": 8,
       "element": {
         "location": "masiks_puzzle_dungeon:o_silverfish_spawner_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -213,7 +213,7 @@
       "weight": 5,
       "element": {
         "location": "masiks_puzzle_dungeon:o_x_hallway",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -222,7 +222,7 @@
       "weight": 5,
       "element": {
         "location": "masiks_puzzle_dungeon:o_crossroad",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -231,7 +231,7 @@
       "weight": 5,
       "element": {
         "location": "masiks_puzzle_dungeon:o_lake_crossroad",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -240,7 +240,7 @@
       "weight": 5,
       "element": {
         "location": "masiks_puzzle_dungeon:o_campfire_crossroad",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -249,7 +249,7 @@
       "weight": 12,
       "element": {
         "location": "masiks_puzzle_dungeon:o_parkour_stairs",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -258,7 +258,7 @@
       "weight": 8,
       "element": {
         "location": "masiks_puzzle_dungeon:o_stairs",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }

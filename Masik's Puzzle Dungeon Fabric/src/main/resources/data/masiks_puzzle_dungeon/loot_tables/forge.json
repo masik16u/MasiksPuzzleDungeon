@@ -3,8 +3,8 @@
     {
       "rolls": {
         "type": "minecraft:uniform",
-        "min": 4,
-        "max": 8
+        "min": 3,
+        "max": 4
       },
       "bonus_rolls": 0,
       "entries": [
@@ -117,16 +117,6 @@
           "type": "minecraft:item",
           "weight": 30,
           "name": "minecraft:clock"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 30,
-          "name": "minecraft:iron_horse_armor"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 30,
-          "name": "minecraft:golden_horse_armor"
         },
         {
           "type": "minecraft:item",
@@ -326,11 +316,6 @@
         {
           "type": "minecraft:item",
           "weight": 15,
-          "name": "minecraft:diamond_horse_armor"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 15,
           "name": "minecraft:diamond_helmet",
           "functions": [
             {
@@ -459,6 +444,60 @@
                 "type": "minecraft:uniform",
                 "min": 10,
                 "max": 25
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 40
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:coal",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
               }
             }
           ]

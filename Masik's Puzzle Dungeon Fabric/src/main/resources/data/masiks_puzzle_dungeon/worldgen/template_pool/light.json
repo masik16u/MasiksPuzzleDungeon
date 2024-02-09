@@ -6,7 +6,7 @@
       "weight": 50,
       "element": {
         "location": "masiks_puzzle_dungeon:light_off",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -15,7 +15,7 @@
       "weight": 50,
       "element": {
         "location": "masiks_puzzle_dungeon:light_on",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }

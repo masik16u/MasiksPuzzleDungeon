@@ -1,0 +1,7 @@
+{
+  "processors": [
+    {
+      "processor_type": "masiks_puzzle_dungeon:waterlogged"
+    }
+  ]
+}

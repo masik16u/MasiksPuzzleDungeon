@@ -6,7 +6,7 @@
       "weight": 50,
       "element": {
         "location": "masiks_puzzle_dungeon:hallway_to_o",
-        "processors": "minecraft:empty",
+        "processors": "masiks_puzzle_dungeon:puzzle_dungeon",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "id": "masiks_puzzle_dungeon",
-  "version": "1.1.1-1.20.X",
+  "version": "${version}",
 
   "name": "Masik's Puzzle Dungeon",
-  "description": "Adds a dungeon with a lot of redstone puzzles",
+  "description": "Adds a vanilla like redstone puzzle dungeon",
   "authors": [
     "Masik16u"
   ],
@@ -14,7 +14,7 @@
 
   "license": "GNU General Public License v3.0",
   "icon": "assets/masiks_puzzle_dungeon/icon.png",
-
+  "accessWidener": "puzzledungeon.accesswidener",
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -22,6 +22,7 @@
     ]
   },
   "mixins": [
+    "puzzledungeon.mixins.json"
   ],
 
   "depends": {

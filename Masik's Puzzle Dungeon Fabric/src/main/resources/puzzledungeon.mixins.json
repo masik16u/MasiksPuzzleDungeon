@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.masik.puzzledungeon.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "StructureTemplateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
